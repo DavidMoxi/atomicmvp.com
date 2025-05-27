@@ -29,8 +29,8 @@
       "ts": "TypeScript adds static typing for safer refactors and great DX."
     },
     "packageJson": {
-      "title": "package.json",
-      "description": "Dependencies used:"
+      "title": "Dependencies used",
+      "description": "Source package.json"
     }
   }
 }

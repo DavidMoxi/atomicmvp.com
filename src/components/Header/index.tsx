@@ -18,7 +18,7 @@ export default function Header({
           {t("title")}
         </Title>
       </Group>
-      <Group>
+      <Group display={{ base: "none", xs: "flex" }}>
         <NavLink href="/es" label={"Español"} w="auto" />
         <NavLink href="/en" label={"English"} w="auto" />
       </Group>

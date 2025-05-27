@@ -36,7 +36,7 @@ export default function HomePage() {
           <Text>{t("faq.who.description")}</Text>
           <NavLink
             component={Link}
-            href="/resume"
+            href="/about"
             style={{ color: "cyan", textDecoration: "underline dotted" }}
             label={t("faq.who.more")}
           />

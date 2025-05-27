@@ -29,8 +29,8 @@
       "ts": "TypeScript añade tipado estático: refactors más seguros y excelente DX."
     },
     "packageJson": {
-      "title": "package.json",
-      "description": "Dependencias utilizadas:"
+      "title": "Dependencias utilizadas",
+      "description": "Archivo fuente 'package.json'"
     }
   }
 }
