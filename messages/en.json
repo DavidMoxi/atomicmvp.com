@@ -1,6 +1,36 @@
 {
+  "Header": {
+    "title": "Atomic MVP",
+    "slogan": "The atomic way to launch ideas faster"
+  },
+  "Navbar": {
+    "home": "Home"
+  },
+  "Footer": {
+    "author": "<email>Powered by {address}</email>"
+  },
   "HomePage": {
-    "title": "AtomicMVP",
-    "slogan": "The Atomic Way to Launch Ideas Faster"
+    "faq": {
+      "why": {
+        "title": "Why atomicmvp.com?",
+        "description": "atomic — each project starts from the smallest, reusable building blocks; mvp — every build targets a Minimum Viable Product. Together they express this portfolio’s philosophy: prove value fast, then grow."
+      },
+      "who": {
+        "title": "Who is Max?",
+        "description": "Maximiliano is a senior software engineer with 8+ years of experience building scalable web and mobile platforms across PropTech, fintech, and SaaS. He specializes in React, Next.js, Laravel, and SQL and focuses on clean architecture, rigorous testing, and continuous improvement. Maximiliano has contributed to startups and enterprise firms alike.",
+        "more": "More about Max"
+      }
+    },
+    "tech": {
+      "title": "Core technologies",
+      "description": "The frameworks that power this site and why they fit the “atomic MVP” mindset:",
+      "next": "Next.js provides hybrid static + server rendering, fast routing and an opinionated build pipeline.",
+      "react": "React’s component model lets us compose UI from small, testable atoms.",
+      "ts": "TypeScript adds static typing for safer refactors and great DX."
+    },
+    "packageJson": {
+      "title": "package.json",
+      "description": "Dependencies used:"
+    }
   }
 }
